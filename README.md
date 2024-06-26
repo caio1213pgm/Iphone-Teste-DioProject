@@ -1,18 +1,11 @@
-## Getting Started
+## Iphone POO - DIO Project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto em Java utilizando Programação Orientada a Objetos
 
-## Folder Structure
+Objetivo é fazer o primeiro iphone, com as funções de música, navegador e chamadas.
 
-The workspace contains two folders by default, where:
+Abaixo está o UML que foi requisitado também
+![UML - Project](image.png)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Imagem final do console após a execução do programa
+![Imagem terminal](image-1.png)
